@@ -1,3 +1,52 @@
 p{
    color: #6c6e70;
 }
+.womens{
+   position: relative;
+   border: 5px solid white;
+   width: 925px;
+   height: 375px;
+   background-color: white;
+   border-radius: 25px;
+}
+.mens{
+   position: relative;
+   border: 5px solid white;
+   width: 925px;
+   height: 375px;
+   background-color: white;
+   border-radius: 25px;
+}
+.kids{
+   position: relative;
+   border: 5px  solid white;
+   width: 925px;
+   height: 375px;
+   background-color: white;
+   border-radius: 25px;
+}
+.one{   
+   position: absolute;
+   top:43px;
+   right:675px;
+   border: 3px solid whitesmoke
+   
+  
+ 
+}
+.two{
+   position: relative;
+   top: 45px;
+   left: 100px;
+   border: 3px solid whitesmoke
+   
+   }
+
+.three{
+   top: 45px;
+   position: relative;
+  left: 200px;
+  border: 3px solid whitesmoke
+   
+
+}   
